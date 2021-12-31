@@ -1,0 +1,9 @@
+static block of the Main
+this is the main method in the class Main
+
+Static Block
+Empty Block
+TestBlocks class parameterless Constructor
+
+Empty Block
+parameterizedTestBlocks class parameterized Constructor
